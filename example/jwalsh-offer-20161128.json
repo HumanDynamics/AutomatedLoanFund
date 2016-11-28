@@ -1,0 +1,23 @@
+{
+  "loanTerm": {
+    "@type": "QuantitativeValue",
+    "value": "1",
+    "unitCode": "ANN"
+  },
+  "annualPercentageRate": [
+    {
+      "@type": "QuantitativeValue",
+      "name": "fixed interest rates",
+      "minValue": "5.00",
+      "maxValue": "10.00"
+    }
+  ],
+  "amount": [
+    {
+      "@type": "MonetaryAmount",
+      "name": "debt for law and business",
+      "value": "10",
+      "currency": "USD"
+    }
+  ]
+}
