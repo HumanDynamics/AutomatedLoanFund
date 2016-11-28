@@ -1,6 +1,11 @@
-For Legal Files and other legal materials.
+# For Legal Files and other legal materials.
 
-Reference Materials:
+## Potential JSON Contract Starting Formats for Testing:
+
+* https://github.com/HumanDynamics/AutomatedLoanFund/blob/master/legal/loan-contract-promissory-note-alt1.json
+* https://github.com/HumanDynamics/AutomatedLoanFund/blob/master/legal/loan-contract-promissory-note-alt2.json
+
+## Reference Materials:
 
 * Contract REST APIs: http://www.programmableweb.com/category/contracts/api
 * eContracts Open Specification: https://www.oasis-open.org/committees/legalxml-econtracts/
