@@ -8,9 +8,9 @@ From: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183/Sectio
 
 > IT IS IN YOUR BEST INTERESTS TO RECORD THE DISCHARGE AND ACCOMPANYING DOCUMENTATION AS SOON AS POSSIBLE. IF YOU ARE UNSURE WHAT TO DO, PLEASE SEEK THE ADVICE OF AN ATTORNEY OR A CLERK AT THE REGISTRY OF DEEDS.
 
-The rest of the statutory terms are as follows:
+## The rest of the statutory rules are as follows:
 
-Section 55: Discharge of mortgage; contents and recording; liability for failure to discharge or negligent discharge; affidavits
+**Section 55: Discharge of mortgage; contents and recording; liability for failure to discharge or negligent discharge; affidavits**
 
 Section 55. (a)(1) A mortgagee, mortgage servicer or note holder who receives full payment and satisfaction of the conditions of a mortgage shall, within 45 days of receipt of payment, (i) cause to be recorded a duly executed and acknowledged discharge that conforms with subsection (b) and provide to the closing attorney, settlement agent or other person transmitting the payoff a copy of the discharge, together with the recording information therefor, or (ii) provide to the closing attorney, settlement agent or other person transmitting the payoff a duly executed and acknowledged discharge, also so conforming, which documents, in either case, shall be provided to the closing attorney, settlement agent or other person, irrespective of whether the mortgagee, mortgage servicer or note holder has withheld the fee for recording the discharge. Merely providing a copy of the discharge and evidence that the discharge was sent to a registry of deeds for recording shall not constitute compliance with this section unless the recording information required herein is noted on the copy.
 
