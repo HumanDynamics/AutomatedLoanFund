@@ -1,0 +1,23 @@
+{
+  "loanTerm": {
+    "@type": "QuantitativeValue",
+    "value": "1",
+    "unitCode": "WEE"
+  },
+  "annualPercentageRate": [
+    {
+      "@type": "QuantitativeValue",
+      "name": "fixed interest rates",
+      "minValue": "2.00",
+      "maxValue": "2.00"
+    }
+  ],
+  "amount": [
+    {
+      "@type": "MonetaryAmount",
+      "name": "debt for law and business",
+      "value": "20",
+      "currency": "USD"
+    }
+  ]
+}
