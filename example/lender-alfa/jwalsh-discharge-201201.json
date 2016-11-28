@@ -1,0 +1,9 @@
+{
+  "amount": [
+    {
+      "@type": "MonetaryAmount",
+      "value": "20",
+      "currency": "USD"
+    }
+  ]
+}
