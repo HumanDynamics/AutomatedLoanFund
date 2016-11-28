@@ -1,6 +1,6 @@
-From: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183/Section55
+* From: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183/Section55
 
-> The following language is required under state law to accompany acknowledgement by lender to borrower that debt is fully discharged upon final repayment:
+**The following language is required under state law to accompany acknowledgement by lender to borrower that debt is fully discharged upon final repayment:**
 
 > ENCLOSED WITH THIS LETTER IS A DISCHARGE OF YOUR MORTGAGE AND OTHER DOCUMENTATION IF NECESSARY TO SHOW THAT WE WERE THE HOLDER OF YOUR MORTGAGE WHEN IT WAS PAID. THESE ARE IMPORTANT LEGAL DOCUMENTS.
 
