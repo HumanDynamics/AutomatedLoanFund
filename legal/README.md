@@ -15,3 +15,9 @@
 ### Also:
 
 Glance for reference only the Docracy sample [here](http://www.docracy.com/0cvsus6g5vp/promissory-note-ppdd) and commercial template examples of this [loan offer](https://www.pandadoc.com/bank-loan-proposal-template) and this [loan contract](https://www.pandadoc.com/financial-services-proposal-templates) by PandaDocs)
+
+### Also:
+
+Some resources related to individual key generation, secure storage, use and life-cycle management: 
+* https://openpgpjs.org/
+* https://www.mailvelope.com/
