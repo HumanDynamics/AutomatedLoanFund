@@ -43,7 +43,7 @@ Now the agent will be able load the file from the url specified in the payload t
 
 > Cases of the file being malicious, and how do we handle such security issues is out of scope. Will be looked into separately.
 
-### Singing the data
+### Signing the data
 The challenge in this step is how do we handle key storage.
 Storing the key file as any other regular file is very insecure and highly not recommend. It can be compromised easily.
 
