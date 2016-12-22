@@ -1,0 +1,15 @@
+{
+  "name": "signingapiserver",
+  "version": "1.0.0",
+  "description": "signingapiserver",
+  "main": "server.js",
+  "dependencies":{
+      "express": "~4.0.0",
+      "body-parser": "~1.0.1"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Koh",
+  "license": "MIT"
+}
